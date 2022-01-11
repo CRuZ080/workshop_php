@@ -13,7 +13,7 @@ include("layout/sidebar.php");
           </div><!-- /.col -->
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
-              <li class="breadcrumb-item"><a href="#">Homee</a></li>
+              <li class="breadcrumb-item"><a href="#">Homeee</a></li>
               <li class="breadcrumb-item active">Dashboard</li>
             </ol>
           </div><!-- /.col -->
